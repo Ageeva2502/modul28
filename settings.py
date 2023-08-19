@@ -1,4 +1,4 @@
-### параметры для авторизации
+#для авторизации
 
 valid_email = orozumyak@yandex.ru
 valid_phone = "+79963892575"
